@@ -1,0 +1,14 @@
+c:\Programmering\Pokemotchi\Pokemotchi\bin\Debug\net7.0\Pokemotchi.exe
+c:\Programmering\Pokemotchi\Pokemotchi\bin\Debug\net7.0\Pokemotchi.deps.json
+c:\Programmering\Pokemotchi\Pokemotchi\bin\Debug\net7.0\Pokemotchi.runtimeconfig.json
+c:\Programmering\Pokemotchi\Pokemotchi\bin\Debug\net7.0\Pokemotchi.dll
+c:\Programmering\Pokemotchi\Pokemotchi\bin\Debug\net7.0\Pokemotchi.pdb
+c:\Programmering\Pokemotchi\Pokemotchi\obj\Debug\net7.0\Pokemotchi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Programmering\Pokemotchi\Pokemotchi\obj\Debug\net7.0\Pokemotchi.AssemblyInfoInputs.cache
+c:\Programmering\Pokemotchi\Pokemotchi\obj\Debug\net7.0\Pokemotchi.AssemblyInfo.cs
+c:\Programmering\Pokemotchi\Pokemotchi\obj\Debug\net7.0\Pokemotchi.csproj.CoreCompileInputs.cache
+c:\Programmering\Pokemotchi\Pokemotchi\obj\Debug\net7.0\Pokemotchi.dll
+c:\Programmering\Pokemotchi\Pokemotchi\obj\Debug\net7.0\refint\Pokemotchi.dll
+c:\Programmering\Pokemotchi\Pokemotchi\obj\Debug\net7.0\Pokemotchi.pdb
+c:\Programmering\Pokemotchi\Pokemotchi\obj\Debug\net7.0\Pokemotchi.genruntimeconfig.cache
+c:\Programmering\Pokemotchi\Pokemotchi\obj\Debug\net7.0\ref\Pokemotchi.dll
