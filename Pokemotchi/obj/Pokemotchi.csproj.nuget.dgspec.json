@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programmering\\Pokemotchi\\Pokemotchi\\Pokemotchi.csproj": {}
+    "c:\\Programmering\\Pokemotchi\\Pokemotchi\\Pokemotchi.csproj": {}
   },
   "projects": {
-    "C:\\Programmering\\Pokemotchi\\Pokemotchi\\Pokemotchi.csproj": {
+    "c:\\Programmering\\Pokemotchi\\Pokemotchi\\Pokemotchi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programmering\\Pokemotchi\\Pokemotchi\\Pokemotchi.csproj",
+        "projectUniqueName": "c:\\Programmering\\Pokemotchi\\Pokemotchi\\Pokemotchi.csproj",
         "projectName": "Pokemotchi",
-        "projectPath": "C:\\Programmering\\Pokemotchi\\Pokemotchi\\Pokemotchi.csproj",
+        "projectPath": "c:\\Programmering\\Pokemotchi\\Pokemotchi\\Pokemotchi.csproj",
         "packagesPath": "C:\\Users\\zackarias.wiklund\\.nuget\\packages\\",
-        "outputPath": "C:\\Programmering\\Pokemotchi\\Pokemotchi\\obj\\",
+        "outputPath": "c:\\Programmering\\Pokemotchi\\Pokemotchi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zackarias.wiklund\\AppData\\Roaming\\NuGet\\NuGet.Config"

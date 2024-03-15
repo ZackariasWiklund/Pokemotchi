@@ -74,7 +74,23 @@ if (Choice == "2" || Choice == "turtwig")
   Console.ForegroundColor = ConsoleColor.Green;
   turtwig();
 
+  Console.ForegroundColor = ConsoleColor.White;
+    Console.WriteLine("Yes/No");
+    string ChimChoice = Console.ReadLine();
+    if(ChimChoice == "Yes")
+    {
+        Console.WriteLine("Great!");
+        
+    }
+    else if(ChimChoice == "No")
+    {
+        Console.WriteLine("Thats too bad");
+        
+    }
+
 }
+
+
 
 
 
@@ -84,10 +100,36 @@ if (Choice == "3" || Choice == "piplup")
   Console.WriteLine("Is this the pokemon you want?");
   Console.ForegroundColor = ConsoleColor.Blue;
   piplup();
+
+  Console.ForegroundColor = ConsoleColor.White;
+    Console.WriteLine("Yes/No");
+    string ChimChoice = Console.ReadLine();
+    if(ChimChoice == "Yes")
+    {
+        Console.WriteLine("Great!");
+        
+    }
+    else if(ChimChoice == "No")
+    {
+        Console.WriteLine("Thats too bad");
+        
+    }
 }
+
+
+else 
+{
+  Console.WriteLine("Ogiltigt svar, försök igen");
+  Console.ReadLine();
+}
+
+
+
+
+
+
+
 Console.ReadLine();
-
-
 
 
 
